@@ -1,0 +1,21 @@
+*.log
+
+upload/*
+lib/*
+
+file.*
+!file.pdf
+
+# **/zipFiles/*
+# library/**/*.zip
+# library/**/*.rar
+# blog/**/*.zip
+# blog/**/*.rar
+*.zip
+*.rar
+
+name[1sae].txt
+.env*
+!.env.examples
+
+!.gitkeep
