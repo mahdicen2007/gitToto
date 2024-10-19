@@ -1,7 +1,9 @@
 *.log
+*.json
 
 upload/*
 lib/*
+node_modules/**
 
 file.*
 !file.pdf

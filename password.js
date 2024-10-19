@@ -2,3 +2,7 @@
 function passwordGenerator() {
   // do sth
 }
+
+function sentOTP() {
+  //send sms
+}
